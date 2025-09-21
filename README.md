@@ -25,6 +25,8 @@ Permitir que un grupo de personas pueda registrarse y realizar un sorteo automá
 
 Puedes abrir el archivo `index.html` en tu navegador para ver la aplicación en funcionamiento. El diseño es simple, intuitivo y centrado en la experiencia del usuario.
 
+Vista de pagina en siguiente enlace web: [Challenge amigo secreto - Alura Latam](https://roberto-aguirre.github.io/Challenge-de-amigo-secreto---AluraLatam)
+
 ## ✨ Funcionalidades
 
 - Registro de participantes
