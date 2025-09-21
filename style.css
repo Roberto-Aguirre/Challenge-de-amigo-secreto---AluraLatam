@@ -144,6 +144,7 @@ ul {
 
 /* Botón de sortear título */
 .button-draw {
+    margin-top: 2em;
     display: flex;
     align-items: center;
     width: 100%;
@@ -155,6 +156,7 @@ ul {
 
 .button-draw img {
     margin-right: 40px;
+    width: 2em;
 }
 
 .button-draw:hover {
